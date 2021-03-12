@@ -1,0 +1,8 @@
+#IGNORE FOLDER
+node_modules
+.parcel-cache
+dist
+
+#IGNORE FILES
+yarn-error.log
+.env
